@@ -1,2 +1,2 @@
-# Assignment-Final-FICT-
+# Simple Static Website(HTML&CSS)
 Simple website design
